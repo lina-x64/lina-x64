@@ -1,6 +1,6 @@
 <h3><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there, I'm DAMcraft</h3>
 
-You might also know me as Damian, I am a 17 year-old developer from Germany
+You might also know me as Damian, I am a 18 year-old developer from Germany
 
 **Find Me Here**
     
